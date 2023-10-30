@@ -11123,11 +11123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\net-sample-projects\\AppPart\\AppPart.csproj",
+      "projectUniqueName": "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\AppPart\\AppPart.csproj",
       "projectName": "AppPart",
-      "projectPath": "D:\\net-sample-projects\\AppPart\\AppPart.csproj",
+      "projectPath": "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\AppPart\\AppPart.csproj",
       "packagesPath": "C:\\Users\\Crystal\\.nuget\\packages\\",
-      "outputPath": "D:\\net-sample-projects\\AppPart\\obj\\",
+      "outputPath": "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\AppPart\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11150,8 +11150,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\net-sample-projects\\Web.Account\\Web.Account.csproj": {
-              "projectPath": "D:\\net-sample-projects\\Web.Account\\Web.Account.csproj"
+            "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\Web.Account\\Web.Account.csproj": {
+              "projectPath": "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\Web.Account\\Web.Account.csproj"
             }
           }
         }

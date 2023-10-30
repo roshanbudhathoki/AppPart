@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\net-sample-projects\\Web.Account\\Web.Account.csproj": {}
+    "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\Web.Account\\Web.Account.csproj": {}
   },
   "projects": {
-    "D:\\net-sample-projects\\Web.Account\\Web.Account.csproj": {
+    "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\Web.Account\\Web.Account.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\net-sample-projects\\Web.Account\\Web.Account.csproj",
+        "projectUniqueName": "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\Web.Account\\Web.Account.csproj",
         "projectName": "Web.Account",
-        "projectPath": "D:\\net-sample-projects\\Web.Account\\Web.Account.csproj",
+        "projectPath": "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\Web.Account\\Web.Account.csproj",
         "packagesPath": "C:\\Users\\Crystal\\.nuget\\packages\\",
-        "outputPath": "D:\\net-sample-projects\\Web.Account\\obj\\",
+        "outputPath": "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\Web.Account\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

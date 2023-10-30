@@ -15,8 +15,6 @@ namespace AppPart
             var assembtly = typeof(TestController).Assembly;
             builder.Services.AddControllersWithViews().AddApplicationPart(assembtly).AddRazorRuntimeCompilation();
 
-            builder.Services.AddRazorPages();
-
             builder.Services.Configure<MvcRazorRuntimeCompilationOptions>(options =>
             { options.FileProviders.Add(new EmbeddedFileProvider(assembtly)); });
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dcarjfibHv7ZOZLLNbdTLxKMZrK2UlM5jFc9L8xcrKH1fvyJTmEfLUao+Nyz6JZ79a/dDX3sIp4eM4odtwB/aA==",
+  "dgSpecHash": "MOVg5amAN4YdCq4zfvc8rBoYuMFhXZ+SSZiX7n4QHbgLgblkS6Sf2y1QzuFpMLlNVUnAsJmtC31EF+zhJBck4Q==",
   "success": true,
-  "projectFilePath": "D:\\net-sample-projects\\AppPart\\AppPart.csproj",
+  "projectFilePath": "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\AppPart\\AppPart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Crystal\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Crystal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

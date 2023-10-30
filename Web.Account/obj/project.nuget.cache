@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I7gK3lmoZJl3JnsSkJlvqICYX6/PplBhvU8XW61bnyievMGptLHPjNqR14Mkuihyed3UyFdhNVO6SDhs05Y/3g==",
+  "dgSpecHash": "jKvrwulqNGPvBumfjBkdjp7adrYxsT3ADWaKnP9yccO3m4z6fB8/EeOleBoWB7QVuM67Wu+JYfagRpwwlnoFuQ==",
   "success": true,
-  "projectFilePath": "D:\\net-sample-projects\\Web.Account\\Web.Account.csproj",
+  "projectFilePath": "D:\\net-sample-projects\\ApplicatonPart\\AppPart\\Web.Account\\Web.Account.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Crystal\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Crystal\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

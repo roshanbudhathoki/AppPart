@@ -10,3 +10,15 @@ D:\net-sample-projects\Web.Account\obj\Debug\net6.0\Web.Account.dll
 D:\net-sample-projects\Web.Account\obj\Debug\net6.0\refint\Web.Account.dll
 D:\net-sample-projects\Web.Account\obj\Debug\net6.0\Web.Account.pdb
 D:\net-sample-projects\Web.Account\obj\Debug\net6.0\ref\Web.Account.dll
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\bin\Debug\net6.0\Web.Account.deps.json
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\bin\Debug\net6.0\Web.Account.dll
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\bin\Debug\net6.0\Web.Account.pdb
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\obj\Debug\net6.0\Web.Account.csproj.AssemblyReference.cache
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\obj\Debug\net6.0\Web.Account.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\obj\Debug\net6.0\Web.Account.AssemblyInfoInputs.cache
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\obj\Debug\net6.0\Web.Account.AssemblyInfo.cs
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\obj\Debug\net6.0\Web.Account.csproj.CoreCompileInputs.cache
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\obj\Debug\net6.0\Web.Account.dll
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\obj\Debug\net6.0\refint\Web.Account.dll
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\obj\Debug\net6.0\Web.Account.pdb
+D:\net-sample-projects\ApplicatonPart\AppPart\Web.Account\obj\Debug\net6.0\ref\Web.Account.dll
